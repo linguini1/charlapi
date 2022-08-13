@@ -1,7 +1,7 @@
 # charlapi
 ### Matteo Golin
 A very simple personal package for simplifying interaction with
-[The Charlatan's](charlatan.ca) WordPress API.
+[The Charlatan's](https://charlatan.ca) WordPress API.
 
 ## Requirements
 - Python 3.10.6+
